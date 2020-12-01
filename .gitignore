@@ -1,4 +1,4 @@
 Debug
 Release
-/adv01/*.user
+*.user
 .vs
