@@ -8,8 +8,6 @@
 #include <queue>
 #include <algorithm>
 
-#include "../src/jsonprint.h"
-
 using namespace std::literals::string_literals;
 
 // rule := color "bags contains" bag_rules
